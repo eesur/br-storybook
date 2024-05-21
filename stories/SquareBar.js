@@ -1,3 +1,4 @@
+import './square-bar.css';
 import * as d3 from 'd3';
 
 export function squareBar(data, {

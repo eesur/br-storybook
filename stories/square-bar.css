@@ -1,0 +1,7 @@
+/* src/global.css */
+
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+
+text {
+  font-family: 'Space Mono', monospace;
+}
